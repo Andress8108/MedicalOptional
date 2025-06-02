@@ -1,0 +1,1 @@
+mongodb+srv://MedicalOptional:3226325537@cluster0.fshvefj.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
